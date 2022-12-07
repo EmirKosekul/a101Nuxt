@@ -8,7 +8,7 @@
                 <div class="cards">
                     <div class="card">
                         <img src="https://pictures.personaclick.com/resize-images/220/c8b6a5946225d5fbdc1570119c3aab/2400803345213161865.jpg">
-                        <a>Pınar Süt Yağlı 200ml</a>
+                        <a>Pınar Süt Yağlı Küçük Boy 200ml</a>
                         <a>10.90TL</a>
                         <button><i class="fa-solid fa-cart-shopping"></i> Sepete Ekle</button>
                     </div>
