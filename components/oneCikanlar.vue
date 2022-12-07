@@ -11,13 +11,33 @@
         <button class="redButton">₺6.799,00</button>
         <button class="blueButton"> Ürünü İncele</button>
     </div>
+    <div class="oneCikanKart">
+        <p><img src="https://ayb.akinoncdn.com/products/2022/11/30/2278594/14ddebbf-0e43-449d-b0c0-d2e86deae993.jpg">Revolt RS7 125 Cc Benzinli Motosiklet Gümüş Gri</p>
+        <button class="redButton">₺16.799,00</button>
+        <button class="blueButton"> Ürünü İncele</button>
+    </div>
+    <div class="oneCikanKart">
+        <p><img src="https://ayb.akinoncdn.com/products/2022/11/16/2251765/405c3cb5-e772-42e3-ada5-39bc245529a2.jpg">Samsung Galaxy M33 5G 128 GB 6 GB RAM Cep Telefonu Yeşil</p>
+        <button class="redButton">₺2.799,00</button>
+        <button class="blueButton"> Ürünü İncele</button>
+    </div>
+    <div class="oneCikanKart">
+        <p><img src="https://ayb.akinoncdn.com/products/2022/01/04/72725/2d7a2b3c-6543-4640-9de6-721e2aa87b20.jpg">Russell Hobbs 21702-56 1000 W 1.25 L 10 Fincan Kapasiteli Kahve Makinesi Krem</p>
+        <button class="redButton">₺1.799,00</button>
+        <button class="blueButton"> Ürünü İncele</button>
+    </div>
+    <div class="oneCikanKart">
+        <p><img src="https://ayb.akinoncdn.com/products/2022/04/08/143477/3c58507d-9a93-423d-b0c3-a36b3afa993f.jpg">Xiaomi Mop 2 Vacuum Robot Süpürge Beyaz</p>
+        <button class="redButton">₺6.799,00</button>
+        <button class="blueButton"> Ürünü İncele</button>
+    </div>
 
 </div>
 </template>
 
 <style>
 .oneCikanDiv{
-    margin-left:5cm;
+    margin-left:6cm;
 }
 .redButton{
     background-color: #EB211D;
@@ -43,7 +63,7 @@
 .oneCikanKart{
     height: 244px;
     width: 330px;
-    margin-right: 10px;
+    margin-right: 20px;
     display:inline-block;
     margin-top: 13px;
 }

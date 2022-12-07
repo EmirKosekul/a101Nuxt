@@ -2,7 +2,9 @@
     <headera101/>
     <navbarButtons/>
     <slider1/>
+    <bigPicture/>
     <ucuz/>
+    <slider2/>
     <kategoriler1/>
     <kategoriler2/>
     <oneCikanlar/>
@@ -24,6 +26,8 @@ import oneCikanlar from "./components/oneCikanlar.vue"
 import navbarButtons from "./components/navbarButtons.vue"
 import footerr from "./components/footer.vue"
 import slider1 from "./components/slider1.vue"
+import slider2 from "./components/slider2.vue"
+import bigPicture from "./components/bigPicture.vue"
 
 export default{
  
@@ -36,6 +40,8 @@ export default{
     navbarButtons,
     footerr,
     slider1,
+    slider2,
+    bigPicture,
   },
 }
 
